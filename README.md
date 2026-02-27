@@ -1,0 +1,3 @@
+FotonCard là nền tảng phát hành thẻ tín dụng ảo Visa/Mastercard chuyên nghiệp, cho phép bạn tạo thẻ ảo trực tuyến để sử dụng cho thương mại điện tử, quảng cáo Facebook, đăng ký dịch vụ trả phí và nhiều mục đích cá nhân/doanh nghiệp khác. FotonCard hợp tác với nhiều ngân hàng tại Mỹ, Hồng Kông, Singapore… cung cấp hàng chục dải BIN thẻ khác nhau, đảm bảo dịch vụ thẻ ảo VCC ổn định và lâu dài.
+
+Phí mở thẻ chỉ từ $2, phí giao dịch thấp nhất 1%, giúp doanh nghiệp tiết kiệm chi phí khi sử dụng số lượng lớn. Hỗ trợ nạp tiền bằng USDT (tiền mã hóa), không yêu cầu xác minh danh tính (KYC), bảo vệ tối đa quyền riêng tư của bạn.
